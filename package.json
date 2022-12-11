@@ -15,7 +15,7 @@
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "cuid": "^2.1.6",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "ip-regex": "^4.0.0",
     "is-valid-email": "0.0.4",
     "jshint": "^2.10.3",
